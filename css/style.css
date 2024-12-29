@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+#carrinho {
+    color: green;
+}
+
+footer {
+    background-color: #555555;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+.produto-item {
+    color: #b61717;
+    font-weight: bold;
+}
